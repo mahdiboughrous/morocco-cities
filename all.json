@@ -114,7 +114,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "بني يخلف",
           "en": "Ben Yakhlef",
           "fr": "Ben Yakhlef"
         }
@@ -146,7 +146,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "المحمدية",
           "en": "Mohammadia",
           "fr": "Mohammadia"
         }
@@ -186,7 +186,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "برشيد",
           "en": "Berrechid",
           "fr": "Berrechid"
         }
@@ -290,7 +290,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "أولاد احريز ساحل",
           "en": "Oulad H'Riz Sahel",
           "fr": "Oulad H'Riz Sahel"
         }
@@ -298,7 +298,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "أولاد امراح",
           "en": "Oulad M'rah",
           "fr": "Oulad M'rah"
         }
@@ -314,7 +314,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "أولاد سيدي بن داود",
           "en": "Oulad Sidi Ben Daoud",
           "fr": "Oulad Sidi Ben Daoud"
         }
@@ -338,7 +338,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "سيدي رحال شطاي",
           "en": "Sidi Rahhal Chatai",
           "fr": "Sidi Rahhal Chataï"
         }
@@ -362,7 +362,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "بئر جديد",
           "en": "Bir Jdid",
           "fr": "Bir Jdid"
         }
@@ -386,7 +386,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "الجديدة",
           "en": "El Jadida",
           "fr": "El Jadida"
         }
@@ -426,7 +426,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "خميس زمامرة",
           "en": "Khemis Zemamra",
           "fr": "Khemis Zemamra"
         }
@@ -450,7 +450,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "واليدية",
           "en": "Oualidia",
           "fr": "Oualidia"
         }
@@ -506,7 +506,7 @@
       {
         "region_id": 7,
         "names": {
-          "ar": null,
+          "ar": "سيدي أحمد",
           "en": "Sidi Ahmed",
           "fr": "Sidi Ahmed"
         }
@@ -514,7 +514,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "سيدي علي بن حمدوش",
           "en": "Sidi Ali Ban Hamdouche",
           "fr": "Sidi Ali Ban Hamdouche"
         }
@@ -522,7 +522,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "سيدي بنور",
           "en": "Sidi Bennour",
           "fr": "Sidi Bennour"
         }
@@ -530,7 +530,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "سيدي بوزيد",
           "en": "Sidi Bouzid",
           "fr": "Sidi Bouzid"
         }
@@ -538,7 +538,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "سيدي إسماعيل",
           "en": "Sidi Smail",
           "fr": "Sidi Smaïl"
         }
@@ -770,7 +770,7 @@
       {
         "region_id": 4,
         "names": {
-          "ar": null,
+          "ar": "سيدي علال التازي",
           "en": "Sidi Allal Tazi",
           "fr": "Sidi Allal Tazi"
         }
@@ -778,7 +778,7 @@
       {
         "region_id": 4,
         "names": {
-          "ar": null,
+          "ar": "سيدي قاسم",
           "en": "Sidi Kacem",
           "fr": "Sidi Kacem"
         }
@@ -786,7 +786,7 @@
       {
         "region_id": 4,
         "names": {
-          "ar": null,
+          "ar": "سيدي سليمان",
           "en": "Sidi Slimane",
           "fr": "Sidi Slimane"
         }
@@ -794,7 +794,7 @@
       {
         "region_id": 4,
         "names": {
-          "ar": null,
+          "ar": "سيدي الطيبي",
           "en": "Sidi Taibi",
           "fr": "Sidi Taibi"
         }
@@ -802,7 +802,7 @@
       {
         "region_id": 4,
         "names": {
-          "ar": null,
+          "ar": "سيدي يحيى الغرب",
           "en": "Sidi Yahya El Gharb",
           "fr": "Sidi Yahya El Gharb"
         }
@@ -866,7 +866,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "فم زكيد",
           "en": "Foum Zguid",
           "fr": "Foum Zguid"
         }
@@ -1082,7 +1082,7 @@
       {
         "region_id": 7,
         "names": {
-          "ar": null,
+          "ar": "سيدي المختار",
           "en": "Sid L'Mokhtar",
           "fr": "Sid L'Mokhtar"
         }
@@ -1090,7 +1090,7 @@
       {
         "region_id": 7,
         "names": {
-          "ar": null,
+          "ar": "سيدي الزوين",
           "en": "Sid Zouin",
           "fr": "Sid Zouin"
         }
@@ -1098,7 +1098,7 @@
       {
         "region_id": 7,
         "names": {
-          "ar": null,
+          "ar": "سيدي عبد الله غيات",
           "en": "Sidi Abdallah Ghiat",
           "fr": "Sidi Abdallah Ghiat"
         }
@@ -1106,7 +1106,7 @@
       {
         "region_id": 7,
         "names": {
-          "ar": null,
+          "ar": "سيدي بوعثمان",
           "en": "Sidi Bou Othmane",
           "fr": "Sidi Bou Othmane"
         }
@@ -1114,7 +1114,7 @@
       {
         "region_id": 7,
         "names": {
-          "ar": null,
+          "ar": "سيدي رحال",
           "en": "Sidi Rahhal",
           "fr": "Sidi Rahhal"
         }
@@ -1197,14 +1197,6 @@
           "ar": "تنالت",
           "en": "Tanalt",
           "fr": "Tanalt"
-        }
-      },
-      {
-        "region_id": 7,
-        "names": {
-          "ar": null,
-          "en": "Zeubelemok",
-          "fr": "Zeubelemok"
         }
       },
       {
@@ -1314,7 +1306,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": null,
+          "ar": "آيت بوبيدمان",
           "en": "Ait Boubidmane",
           "fr": "Aït Boubidmane"
         }
@@ -1378,7 +1370,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "الرشيدية",
           "en": "Errachidia",
           "fr": "Errachidia"
         }
@@ -1466,7 +1458,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": null,
+          "ar": "محايا",
           "en": "M'haya",
           "fr": "M'haya"
         }
@@ -1474,7 +1466,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "مريرت",
           "en": "M'rirt",
           "fr": "M'rirt"
         }
@@ -1482,7 +1474,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "ميدلت",
           "en": "Midelt",
           "fr": "Midelt"
         }
@@ -1490,7 +1482,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "مولاي علي الشريف",
           "en": "Moulay Ali Cherif",
           "fr": "Moulay Ali Cherif"
         }
@@ -1506,7 +1498,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": null,
+          "ar": "مولاي إدريس زرهون",
           "en": "Moulay Idriss Zerhoun",
           "fr": "Moulay Idriss Zerhoun"
         }
@@ -1514,7 +1506,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": null,
+          "ar": "موساوة",
           "en": "Moussaoua",
           "fr": "Moussaoua"
         }
@@ -1522,7 +1514,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": null,
+          "ar": "نزلات بني عمار",
           "en": "N'Zalat Bni Amar",
           "fr": "N'Zalat Bni Amar"
         }
@@ -1530,7 +1522,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "واومنة",
           "en": "Ouaoumana",
           "fr": "Ouaoumana"
         }
@@ -1562,7 +1554,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": null,
+          "ar": "سيدي عدي",
           "en": "Sidi Addi",
           "fr": "Sidi Addi"
         }
@@ -1570,7 +1562,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "تيشوت",
           "en": "Tichoute",
           "fr": "Tichoute"
         }
@@ -1610,7 +1602,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": null,
+          "ar": "تيزغيت",
           "en": "Tizguite",
           "fr": "Tizguite"
         }
@@ -1634,7 +1626,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": null,
+          "ar": "زاوية إفران",
           "en": "Zaouia d'Ifrane",
           "fr": "Zaouia d'Ifrane"
         }
@@ -1794,7 +1786,7 @@
       {
         "region_id": 2,
         "names": {
-          "ar": null,
+          "ar": "العيون سيدي ملوك",
           "en": "El Aioun Sidi Mellouk",
           "fr": "El Aïoun Sidi Mellouk"
         }
@@ -1882,7 +1874,7 @@
       {
         "region_id": 2,
         "names": {
-          "ar": null,
+          "ar": "ميدار",
           "en": "Midar",
           "fr": "Midar"
         }
@@ -1946,7 +1938,7 @@
       {
         "region_id": 2,
         "names": {
-          "ar": null,
+          "ar": "سيدي بوبكر",
           "en": "Sidi Boubker",
           "fr": "Sidi Boubker"
         }
@@ -2082,7 +2074,7 @@
       {
         "region_id": 4,
         "names": {
-          "ar": null,
+          "ar": "سيدي علال البحراوي",
           "en": "Sidi Allal El Bahraoui",
           "fr": "Sidi Allal El Bahraoui"
         }
@@ -2090,7 +2082,7 @@
       {
         "region_id": 4,
         "names": {
-          "ar": null,
+          "ar": "سيدي بوكنادل",
           "en": "Sidi Bouknadel",
           "fr": "Sidi Bouknadel"
         }
@@ -2098,7 +2090,7 @@
       {
         "region_id": 4,
         "names": {
-          "ar": null,
+          "ar": "الصخيرات",
           "en": "Skhirate",
           "fr": "Skhirate"
         }
@@ -2122,7 +2114,7 @@
       {
         "region_id": 4,
         "names": {
-          "ar": null,
+          "ar": "تيداس",
           "en": "Tiddas",
           "fr": "Tiddas"
         }
@@ -2242,7 +2234,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "بن سرجاو",
           "en": "Ben Sergao",
           "fr": "Ben Sergao"
         }
@@ -2298,7 +2290,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "إدا أوغنديف",
           "en": "Ida Ougnidif",
           "fr": "Ida Ougnidif"
         }
@@ -2306,7 +2298,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "إفري",
           "en": "Ifri",
           "fr": "Ifri"
         }
@@ -2314,7 +2306,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "إغدامن",
           "en": "Igdamen",
           "fr": "Igdamen"
         }
@@ -2322,7 +2314,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "إغيل نومغون",
           "en": "Ighil n'Oumgoun",
           "fr": "Ighil n'Oumgoun"
         }
@@ -2330,7 +2322,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "إيماسين",
           "en": "Imassine",
           "fr": "Imassine"
         }
@@ -2354,7 +2346,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "كلميم الغونة",
           "en": "Kelaat-M'Gouna",
           "fr": "Kelaat-M'Gouna"
         }
@@ -2370,7 +2362,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "لخصاس",
           "en": "Lakhsass",
           "fr": "Lakhsass"
         }
@@ -2386,7 +2378,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "مسمرير",
           "en": "M'semrir",
           "fr": "M'semrir"
         }
@@ -2394,7 +2386,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "ماسة (المغرب)",
           "en": "Massa (Maroc)",
           "fr": "Massa (Maroc)"
         }
@@ -2402,7 +2394,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "ميغوس",
           "en": "Megousse",
           "fr": "Megousse"
         }
@@ -2434,7 +2426,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "الصرغين",
           "en": "Sarghine",
           "fr": "Sarghine"
         }
@@ -2442,7 +2434,7 @@
       {
         "region_id": 10,
         "names": {
-          "ar": null,
+          "ar": "سيدي إفني",
           "en": "Sidi Ifni",
           "fr": "Sidi Ifni"
         }
@@ -2458,7 +2450,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "تابونت",
           "en": "Tabounte",
           "fr": "Tabounte"
         }
@@ -2474,7 +2466,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "تاغزوت",
           "en": "Taghzout",
           "fr": "Taghzout"
         }
@@ -2482,7 +2474,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "تاكزن",
           "en": "Tagzen",
           "fr": "Tagzen"
         }
@@ -2506,7 +2498,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "تمراغت",
           "en": "Tamraght",
           "fr": "Tamraght"
         }
@@ -2514,7 +2506,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "تانومريت نكوب زاكورا",
           "en": "Tanoumrite Nkob Zagora",
           "fr": "Tanoumrite Nkob Zagora"
         }
@@ -2522,7 +2514,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "تاوريرت آيت زغار",
           "en": "Taourirt ait zaghar",
           "fr": "Taourirt ait zaghar"
         }
@@ -2530,7 +2522,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "تارودانت",
           "en": "Taroudannt",
           "fr": "Taroudannt"
         }
@@ -2538,7 +2530,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "تمسية",
           "en": "Temsia",
           "fr": "Temsia"
         }
@@ -2546,7 +2538,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "تيفنيت",
           "en": "Tifnit",
           "fr": "Tifnit"
         }
@@ -2554,7 +2546,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": null,
+          "ar": "تسغدال",
           "en": "Tisgdal",
           "fr": "Tisgdal"
         }
@@ -2562,7 +2554,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": "تزنيت",
+          "ar": "تيزنيت",
           "en": "Tiznit",
           "fr": "Tiznit"
         }
@@ -2570,7 +2562,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "توندوت",
           "en": "Toundoute",
           "fr": "Toundoute"
         }
@@ -2578,7 +2570,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": "زاݣورة",
+          "ar": "زاكورة",
           "en": "Zagora",
           "fr": "Zagora"
         }
@@ -2586,7 +2578,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": "افورار",
+          "ar": "أفورار",
           "en": "Afourar",
           "fr": "Afourar"
         }
@@ -2594,7 +2586,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "أغبالة",
           "en": "Aghbala",
           "fr": "Aghbala"
         }
@@ -2610,7 +2602,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "آيت ماجدن",
           "en": "Ait Majden",
           "fr": "Aït Majden"
         }
@@ -2618,7 +2610,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "بني عياط",
           "en": "Beni Ayat",
           "fr": "Beni Ayat"
         }
@@ -2634,7 +2626,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "بن الويدان",
           "en": "Bin elouidane",
           "fr": "Bin elouidane"
         }
@@ -2658,7 +2650,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "دار أولاد زيدوح",
           "en": "Dar Oulad Zidouh",
           "fr": "Dar Oulad Zidouh"
         }
@@ -2666,7 +2658,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": "دمنات",
+          "ar": "ديمنات",
           "en": "Demnate",
           "fr": "Demnate"
         }
@@ -2674,7 +2666,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": null,
+          "ar": "الدرعة",
           "en": "Dra'a",
           "fr": "Dra'a"
         }
@@ -2722,7 +2714,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "أولاد عياد",
           "en": "Oulad Ayad",
           "fr": "Oulad Ayad"
         }
@@ -2730,7 +2722,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "أولاد امبارك",
           "en": "Oulad M'Barek",
           "fr": "Oulad M'Barek"
         }
@@ -2738,7 +2730,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "أولاد يعيش",
           "en": "Oulad Yaich",
           "fr": "Oulad Yaich"
         }
@@ -2746,7 +2738,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "سيدي جابر",
           "en": "Sidi Jaber",
           "fr": "Sidi Jaber"
         }
@@ -2754,7 +2746,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "سوق سبت أولاد نمة",
           "en": "Souk Sebt Oulad Nemma",
           "fr": "Souk Sebt Oulad Nemma"
         }
@@ -2786,7 +2778,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "أكشور",
           "en": "Akchour",
           "fr": "Akchour"
         }
@@ -2850,7 +2842,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "الفنيدق",
           "en": "Fnideq",
           "fr": "Fnideq"
         }
@@ -2858,7 +2850,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "الغزناية",
           "en": "Gueznaia",
           "fr": "Gueznaia"
         }
@@ -2874,7 +2866,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": null,
+          "ar": "الكارية",
           "en": "Karia",
           "fr": "Karia"
         }
@@ -2906,7 +2898,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "المضيق",
           "en": "M'diq",
           "fr": "M'diq"
         }
@@ -2914,7 +2906,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "مرتيل",
           "en": "Martil",
           "fr": "Martil"
         }
@@ -2930,7 +2922,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "واد لاو",
           "en": "Oued Laou",
           "fr": "Oued Laou"
         }
@@ -2938,7 +2930,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "واد رمل",
           "en": "Oued Rmel",
           "fr": "Oued Rmel"
         }
@@ -2946,7 +2938,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "وزان",
           "en": "Ouazzane",
           "fr": "Ouazzane"
         }
@@ -2954,7 +2946,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "بوانت سيريس",
           "en": "Point Cires",
           "fr": "Point Cires"
         }
@@ -2962,7 +2954,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "سيدي اليماني",
           "en": "Sidi Lyamani",
           "fr": "Sidi Lyamani"
         }
@@ -2970,7 +2962,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "سيدي محمد بن عبد الله الريسوني",
           "en": "Sidi Mohamed ben Abdallah el-Raisuni",
           "fr": "Sidi Mohamed ben Abdallah el-Raisuni"
         }
@@ -2978,7 +2970,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "زينات",
           "en": "Zinat",
           "fr": "Zinat"
         }
@@ -3010,7 +3002,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "آيت هشام",
           "en": "Ait Hichem",
           "fr": "Aït Hichem"
         }
@@ -3058,7 +3050,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "إناهن",
           "en": "Inahnahen",
           "fr": "Inahnahen"
         }
@@ -3066,7 +3058,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "إيساكوين (كتامة)",
           "en": "Issaguen (Ketama)",
           "fr": "Issaguen (Ketama)"
         }
@@ -3074,7 +3066,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": null,
+          "ar": "كرية (الجديدة)",
           "en": "Karia (El Jadida)",
           "fr": "Karia (El Jadida)"
         }
@@ -3090,7 +3082,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": null,
+          "ar": "وادي أمليل",
           "en": "Oued Amlil",
           "fr": "Oued Amlil"
         }
@@ -3114,7 +3106,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "تالة تازغوات",
           "en": "Tala Tazegwaght",
           "fr": "Tala Tazegwaght"
         }
@@ -3178,7 +3170,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": null,
+          "ar": "تيزي وسلي",
           "en": "Tizi Ouasli",
           "fr": "Tizi Ouasli"
         }
@@ -3218,7 +3210,7 @@
       {
         "region_id": 12,
         "names": {
-          "ar": null,
+          "ar": "أوسرد",
           "en": "Awsard",
           "fr": "Awsard"
         }
@@ -3226,7 +3218,7 @@
       {
         "region_id": 12,
         "names": {
-          "ar": null,
+          "ar": "واد الذهب",
           "en": "Oued-Eddahab",
           "fr": "Oued-Eddahab"
         }
@@ -3234,7 +3226,7 @@
       {
         "region_id": 1,
         "names": {
-          "ar": null,
+          "ar": "ستيهات",
           "en": "Stehat",
           "fr": "Stehat"
         }
@@ -3242,7 +3234,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": null,
+          "ar": "آيت عطاب",
           "en": "Ait Attab",
           "fr": "Aït Attab"
         }
